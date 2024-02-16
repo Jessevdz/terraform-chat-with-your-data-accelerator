@@ -1,4 +1,4 @@
-# Terraform deployment for the Azure "Chat with your data Solution accelerator repository"
+# Terraform deployment for the Azure "Chat with your data accelerator repository"
 
 This repository contains terraform code that deploys all the Azure infrastructure required by the [Microsoft Azure Chat with your data solution accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator).
 
